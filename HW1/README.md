@@ -1,0 +1,1 @@
+### The questions of the assignments are placed in `HW1.pdf` file.
